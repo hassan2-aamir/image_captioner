@@ -10,6 +10,16 @@ A Python tool that scrapes images from web pages and generates natural language 
 - Handles various image formats and URLs
 - Generates a text file with image URLs and their captions
 
+## Technologies Used
+
+- **Python**: Core programming language
+- **BeautifulSoup4**: HTML parsing and web scraping
+- **Transformers**: Hugging Face library for NLP models
+- **BLIP**: Bootstrapping Language-Image Pre-training model
+- **PyTorch**: Deep learning framework
+- **Pillow**: Image processing library
+- **Requests**: HTTP library for API calls
+
 ## Prerequisites
 
 - Python 3.8+
