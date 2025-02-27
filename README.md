@@ -83,4 +83,4 @@ image_url: generated caption
 
 The program generates a file like this in the end with format image_url: generated caption
 
-![Demo image of captions.txt](demo/output)
+![Demo image of captions.txt](demo/img1.png)
