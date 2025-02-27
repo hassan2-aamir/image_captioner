@@ -78,3 +78,9 @@ image_url: generated caption
 - Skips SVG images and small icons
 - Handles malformed URLs
 - Converts RGBA/P images to RGB
+
+## Demo
+
+The program generates a file like this in the end with format image_url: generated caption
+
+![Demo image of captions.txt](demo/output)
